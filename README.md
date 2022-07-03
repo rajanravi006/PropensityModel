@@ -1,3 +1,2 @@
 # PropensityModel
-A dataset provided with all the lead generations and other customer related informations.
-To predict the successful lead conversion into potential customers.
+Predict the propensity to buy a productbased on users past activity using supervised machine learning approach. Libraries: NumPy, Pandas, Seaborn, Matplotlib, Sklearn Modelling: XGBoost, Decision Tree Regressor
